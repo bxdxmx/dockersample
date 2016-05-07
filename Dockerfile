@@ -2,7 +2,7 @@
 FROM centos:latest
 
 # 2.作成者情報
-MAINTAINER 0.1 asashiho@mail.asa.yokohama
+MAINTAINER 0.1 bxdxmx
 
 # 3.Apache HTTP Serverのインストール
 RUN yum -y install httpd
