@@ -10,7 +10,7 @@ Dockerfileは、DockerコンテナのもとになるDockerイメージの構成�
  
 Usage
 ------
-    $ docker pull asashiho/dockersample
+    $ docker pull bxdxmx/dockersample_p177
 
 
 ### Docker公式サイト
