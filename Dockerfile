@@ -1,6 +1,5 @@
-FROM centos
+FROM centos:centos6
 MAINTAINER 0.1 bxdxmx
-ENV HOME=/root
 RUN ["yum", "-y", "install", "httpd"]
 ADD html/ /var/www/html/
 EXPOSE 80
